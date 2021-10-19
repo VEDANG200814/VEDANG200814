@@ -5,7 +5,7 @@
 - My hobbies are reading books and playing cricket .
 - I wake up early in the morning .
 - I can do html programming & web devlopment and still learning more .
-- You can contact me through my emailaccount cvedang08@protonmail.com OR through my forkgram account ph.no. 7980948004
+- You can contact me through my emailaccount cvedang08@protonmail.com
 - 🌱 I’m currently learning HTML
 <!---
 VEDANG200814/VEDANG200814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
