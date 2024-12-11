@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Vedang Chakraborty<br>👀 I’m interested in programming, hacking and gaming<br>I was born on 14th of August 2008 .<br>I live with my parents and elder sister in Barrackpore at Kolkata, West Bengal .<br>My hobbies are reading books and playing games.<br>I can do java, python programming & web devlopment using HTML and still learning more .<br>You can contact me through my email account cvedang6@gmail.com<br>🌱 I’m currently learning java and python and expect to learn hacking in future
 
+https://raw.githubusercontent.com/VEDANG200814/VEDANG200814/output/github-contribution-grid-snake-dark.svg
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VedangChakraborty) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/VedangChakraborty) 
